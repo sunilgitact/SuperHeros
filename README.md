@@ -9,3 +9,4 @@ Used the Given API link and fetched the JSON data and displayed the SUPERHEROS d
 Thanks and regards
 Sunil Kumar
 +91 89793 32198
+sunil.dsatm@2gmail.com
